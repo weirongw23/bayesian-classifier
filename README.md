@@ -1,4 +1,4 @@
-# Naive Bayesian Classifier
+# Bayesian Classifier
 A text classification model using the Naive Bayes classifier to identify fake news
 
 To find the necessary CSV included with the python files, check out
